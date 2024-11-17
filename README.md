@@ -17,4 +17,4 @@ npm install symbol-server
 
 ## Usage
 
-npm start
+node node_module/symbol-server
