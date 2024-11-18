@@ -18,3 +18,7 @@ npm install symbol-server
 ## Usage
 
 node node_module/symbol-server/index.js
+
+Copyright © [2024] Sadiiq Mukhtaar. All rights reserved.
+
+
